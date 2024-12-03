@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sophea2024/Online-Cakes/static/css/main.98aa8de1.css",
+    "main.js": "/Sophea2024/Online-Cakes/static/js/main.d4739cf0.js",
+    "index.html": "/Sophea2024/Online-Cakes/index.html",
+    "main.98aa8de1.css.map": "/Sophea2024/Online-Cakes/static/css/main.98aa8de1.css.map",
+    "main.d4739cf0.js.map": "/Sophea2024/Online-Cakes/static/js/main.d4739cf0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98aa8de1.css",
+    "static/js/main.d4739cf0.js"
+  ]
+}
